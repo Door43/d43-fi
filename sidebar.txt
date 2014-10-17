@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fi:home|Door43 (fi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fi|d43-fi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fi/archive/master.zip|d43-fi.zip]]
+
+**Recent Changes**
+{{changes>ns = fi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fi|Ethnologue data]]
+
